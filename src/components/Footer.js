@@ -3,7 +3,7 @@ function Footer() {
         <footer>
             <p>
                 Created with ❤️ by &nbsp;
-                <p className="website-link">
+                <p>
                     Chaithanya Kotagiri
                 </p>
             </p>
